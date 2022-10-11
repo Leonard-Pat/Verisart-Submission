@@ -1,0 +1,6 @@
+[submodule "smartcontracts"]
+	path = smartcontracts
+	url = ./smartcontracts
+[submodule "frontend"]
+	path = frontend
+	url = ./frontend
