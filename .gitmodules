@@ -1,6 +1,6 @@
 [submodule "smartcontracts"]
 	path = smartcontracts
-	url = ./smartcontracts
+	url = https://github.com/Leonard-Pat/verisart-contracts.git
 [submodule "frontend"]
 	path = frontend
-	url = ./frontend
+	url = https://github.com/Leonard-Pat/verisart-frontend.git
