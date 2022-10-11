@@ -26,3 +26,13 @@ To download repo please use git command: <br>
 
 Contract deployed on Goerli network at address `0x8c1AfF787D8748eA86d7ee6285C1EEA22be337E0` <br>
 Need Goerli eth to be able to interact with frontend.
+
+
+## Aspects Achieved
+- Simple UI to create and view all certificates
+- uploaded URI of photo to IPFS
+- Smart contract to manage the storage of data
+- Deployed to a tesnet (Goerli)
+- Some testing
+
+Time taken: ~4 Hours
